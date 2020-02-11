@@ -2,7 +2,9 @@
 
 O newsletter project foi realizado durante o bootcamp "The Complete 2020 Web Development Bootcamp - Angela Yu" e busca desenvolver um sistema web com front e back end estruturados de maneira simples porém funcional.
 
-O resultado pode ser observado hospedado em tempo real em https://mysterious-inlet-48700.herokuapp.com/
+O resultado pode ser observado hospedado em tempo real em https://simracing-newsletter.herokuapp.com
+
+![newsletter-page](https://i.imgur.com/wUQcAHk.png)
 
 ## Tecnologias Utilizadas
 
