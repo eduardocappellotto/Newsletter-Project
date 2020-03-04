@@ -1,3 +1,4 @@
+
 # Newsletter Project
 
 O newsletter project foi realizado durante o bootcamp "The Complete 2020 Web Development Bootcamp - Angela Yu" e busca desenvolver um sistema web com front e back end estruturados de maneira simples porém funcional.
@@ -6,6 +7,11 @@ O resultado pode ser observado hospedado em tempo real em https://simracing-news
 
 ![newsletter-page](https://i.imgur.com/wUQcAHk.png)
 
+## Dentro do MailChimp
+
+Dentro do MailChimp é possível fazer toda administração dos dados dessa lista de emails criada, bem como disparar emails-resposta. 
+
+![enter image description here](https://i.imgur.com/oQz98tU.png)
 ## Tecnologias Utilizadas
 
 ·Front end : HTML, CSS, Javascript ( Bootstrap );
